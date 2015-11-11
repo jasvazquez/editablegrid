@@ -2,7 +2,7 @@
 = EditableGrid v1.0.10 =
 ========================
 
-Introduction
+Introductionxxx
 ------------
 
 EditableGrid is a Javascript library that allows you to make the tables in your web sites and applications editable.
